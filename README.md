@@ -6,6 +6,8 @@ Ele demonstra como um personagem pode encontrar o caminho mais curto
 entre dois pontos em um mapa conectado, utilizando o algoritmo **A\***
 (A-Star).
 
+[Vídeo de Apresentação](https://youtu.be/I1dOhZLGRCQ?si=PFtb_vDFzBx7XnTv)
+
 ------------------------------------------------------------------------
 
 ## 📝 Descrição do Problema
